@@ -1,0 +1,891 @@
+[
+ 	{
+ 		"iID": 0,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "000000"
+ 	},
+ 	{
+ 		"iID": 1,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "F5F5F5"
+ 	},
+ 	{
+ 		"iID": 2,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "2A77A1"
+ 	},
+ 	{
+ 		"iID": 3,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "840410"
+ 	},
+ 	{
+ 		"iID": 4,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "263739"
+ 	},
+ 	{
+ 		"iID": 5,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "86446E"
+ 	},
+ 	{
+ 		"iID": 6,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "D78E10"
+ 	},
+ 	{
+ 		"iID": 7,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "4C75B7"
+ 	},
+ 	{
+ 		"iID": 8,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "BDBEC6"
+ 	},
+ 	{
+ 		"iID": 9,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "5E7072"
+ 	},
+ 	{
+ 		"iID": 10,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "46597A"
+ 	},
+ 	{
+ 		"iID": 11,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "656A79"
+ 	},
+ 	{
+ 		"iID": 12,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "5D7E8D"
+ 	},
+ 	{
+ 		"iID": 13,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "58595A"
+ 	},
+ 	{
+ 		"iID": 14,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "D6DAD6"
+ 	},
+ 	{
+ 		"iID": 15,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "9CA1A3"
+ 	},
+ 	{
+ 		"iID": 16,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "335F3F"
+ 	},
+ 	{
+ 		"iID": 17,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "730E1A"
+ 	},
+ 	{
+ 		"iID": 18,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "7B0A2A"
+ 	},
+ 	{
+ 		"iID": 19,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "9F9D94"
+ 	},
+ 	{
+ 		"iID": 20,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "3B4E78"
+ 	},
+ 	{
+ 		"iID": 21,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "732E3E"
+ 	},
+ 	{
+ 		"iID": 22,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "691E3B"
+ 	},
+ 	{
+ 		"iID": 23,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "96918C"
+ 	},
+ 	{
+ 		"iID": 24,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "515459"
+ 	},
+ 	{
+ 		"iID": 25,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "3F3E45"
+ 	},
+ 	{
+ 		"iID": 26,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "A5A9A7"
+ 	},
+ 	{
+ 		"iID": 27,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "635C5A"
+ 	},
+ 	{
+ 		"iID": 28,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "3D4A68"
+ 	},
+ 	{
+ 		"iID": 29,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "979592"
+ 	},
+ 	{
+ 		"iID": 30,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "421F21"
+ 	},
+ 	{
+ 		"iID": 31,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "5F272B"
+ 	},
+ 	{
+ 		"iID": 32,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "8494AB"
+ 	},
+ 	{
+ 		"iID": 33,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "767B7C"
+ 	},
+ 	{
+ 		"iID": 34,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "646464"
+ 	},
+ 	{
+ 		"iID": 35,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "5A5752"
+ 	},
+ 	{
+ 		"iID": 36,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "252527"
+ 	},
+ 	{
+ 		"iID": 37,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "2D3A35"
+ 	},
+ 	{
+ 		"iID": 38,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "93A396"
+ 	},
+ 	{
+ 		"iID": 39,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "6D7A88"
+ 	},
+ 	{
+ 		"iID": 40,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "221918"
+ 	},
+ 	{
+ 		"iID": 41,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "6F675F"
+ 	},
+ 	{
+ 		"iID": 42,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "7C1C2A"
+ 	},
+ 	{
+ 		"iID": 43,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "5F0A15"
+ 	},
+ 	{
+ 		"iID": 44,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "193826"
+ 	},
+ 	{
+ 		"iID": 45,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "5D1B20"
+ 	},
+ 	{
+ 		"iID": 46,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "9D9872"
+ 	},
+ 	{
+ 		"iID": 47,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "7A7560"
+ 	},
+ 	{
+ 		"iID": 48,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "989586"
+ 	},
+ 	{
+ 		"iID": 49,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "ADB0B0"
+ 	},
+ 	{
+ 		"iID": 50,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "848988"
+ 	},
+ 	{
+ 		"iID": 51,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "304F45"
+ 	},
+ 	{
+ 		"iID": 52,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "4D6268"
+ 	},
+ 	{
+ 		"iID": 53,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "162248"
+ 	},
+ 	{
+ 		"iID": 54,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "272F4B"
+ 	},
+ 	{
+ 		"iID": 55,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "7D6256"
+ 	},
+ 	{
+ 		"iID": 56,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "9EA4AB"
+ 	},
+ 	{
+ 		"iID": 57,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "9C8D71"
+ 	},
+ 	{
+ 		"iID": 58,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "6D1822"
+ 	},
+ 	{
+ 		"iID": 59,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "4E6881"
+ 	},
+ 	{
+ 		"iID": 60,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "9C9C98"
+ 	},
+ 	{
+ 		"iID": 61,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "917347"
+ 	},
+ 	{
+ 		"iID": 62,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "661C26"
+ 	},
+ 	{
+ 		"iID": 63,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "949D9F"
+ 	},
+ 	{
+ 		"iID": 64,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "A4A7A5"
+ 	},
+ 	{
+ 		"iID": 65,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "8E8C46"
+ 	},
+ 	{
+ 		"iID": 66,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "341A1E"
+ 	},
+ 	{
+ 		"iID": 67,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "6A7A8C"
+ 	},
+ 	{
+ 		"iID": 68,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "AAAD8E"
+ 	},
+ 	{
+ 		"iID": 69,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "AB988F"
+ 	},
+ 	{
+ 		"iID": 70,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "851F2E"
+ 	},
+ 	{
+ 		"iID": 71,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "6F8297"
+ 	},
+ 	{
+ 		"iID": 72,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "585853"
+ 	},
+ 	{
+ 		"iID": 73,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "9AA790"
+ 	},
+ 	{
+ 		"iID": 74,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "601A23"
+ 	},
+ 	{
+ 		"iID": 75,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "20202C"
+ 	},
+ 	{
+ 		"iID": 76,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "A4A096"
+ 	},
+ 	{
+ 		"iID": 77,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "AA9D84"
+ 	},
+ 	{
+ 		"iID": 78,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "78222B"
+ 	},
+ 	{
+ 		"iID": 79,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "0E316D"
+ 	},
+ 	{
+ 		"iID": 80,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "722A3F"
+ 	},
+ 	{
+ 		"iID": 81,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "7B715E"
+ 	},
+ 	{
+ 		"iID": 82,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "741D28"
+ 	},
+ 	{
+ 		"iID": 83,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "1E2E32"
+ 	},
+ 	{
+ 		"iID": 84,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "4D322F"
+ 	},
+ 	{
+ 		"iID": 85,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "7C1B44"
+ 	},
+ 	{
+ 		"iID": 86,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "2E5B20"
+ 	},
+ 	{
+ 		"iID": 87,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "395A83"
+ 	},
+ 	{
+ 		"iID": 88,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "6D2837"
+ 	},
+ 	{
+ 		"iID": 89,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "A7A28F"
+ 	},
+ 	{
+ 		"iID": 90,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "AFB1B1"
+ 	},
+ 	{
+ 		"iID": 91,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "364155"
+ 	},
+ 	{
+ 		"iID": 92,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "6D6C6E"
+ 	},
+ 	{
+ 		"iID": 93,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "0F6A89"
+ 	},
+ 	{
+ 		"iID": 94,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "204B6B"
+ 	},
+ 	{
+ 		"iID": 95,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "2B3E57"
+ 	},
+ 	{
+ 		"iID": 96,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "9B9F9D"
+ 	},
+ 	{
+ 		"iID": 97,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "6C8495"
+ 	},
+ 	{
+ 		"iID": 98,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "4D8495"
+ 	},
+ 	{
+ 		"iID": 99,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "AE9B7F"
+ 	},
+ 	{
+ 		"iID": 100,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "406C8F"
+ 	},
+ 	{
+ 		"iID": 101,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "1F253B"
+ 	},
+ 	{
+ 		"iID": 102,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "AB9276"
+ 	},
+ 	{
+ 		"iID": 103,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "134573"
+ 	},
+ 	{
+ 		"iID": 104,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "96816C"
+ 	},
+ 	{
+ 		"iID": 105,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "64686A"
+ 	},
+ 	{
+ 		"iID": 106,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "105082"
+ 	},
+ 	{
+ 		"iID": 107,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "A19983"
+ 	},
+ 	{
+ 		"iID": 108,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "385694"
+ 	},
+ 	{
+ 		"iID": 109,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "525661"
+ 	},
+ 	{
+ 		"iID": 110,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "7F6956"
+ 	},
+ 	{
+ 		"iID": 111,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "8C929A"
+ 	},
+ 	{
+ 		"iID": 112,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "596E87"
+ 	},
+ 	{
+ 		"iID": 113,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "473532"
+ 	},
+ 	{
+ 		"iID": 114,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "44624F"
+ 	},
+ 	{
+ 		"iID": 115,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "730A27"
+ 	},
+ 	{
+ 		"iID": 116,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "223457"
+ 	},
+ 	{
+ 		"iID": 117,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "640D1B"
+ 	},
+ 	{
+ 		"iID": 118,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "A3ADC6"
+ 	},
+ 	{
+ 		"iID": 119,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "695853"
+ 	},
+ 	{
+ 		"iID": 120,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "9B8B80"
+ 	},
+ 	{
+ 		"iID": 121,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "620B1C"
+ 	},
+ 	{
+ 		"iID": 122,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "5B5D5E"
+ 	},
+ 	{
+ 		"iID": 123,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "624428"
+ 	},
+ 	{
+ 		"iID": 124,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "731827"
+ 	},
+ 	{
+ 		"iID": 125,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "1B376D"
+ 	},
+ 	{
+ 		"iID": 126,
+ 		"iName": "Пример цвета",
+ 		"iStatus": 0,
+ 		"iPosition": 3,
+ 		"iColor": "EC6AAE"
+ 	}
+]

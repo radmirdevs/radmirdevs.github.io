@@ -1,0 +1,68 @@
+[
+ 	{
+ 		"iID": 1,
+ 		"iName": "Дополнительный респект",
+ 		"iLevel": 1,
+ 		"iMaxLevel": 1
+ 	},
+	{
+ 		"iID": 2,
+ 		"iName": "Успех в работе",
+ 		"iLevel": 1,
+ 		"iMaxLevel": 1
+ 	},
+	{
+ 		"iID": 3,
+ 		"iName": "Бизнессмены в долгу",
+ 		"iLevel": 1,
+ 		"iMaxLevel": 1
+ 	},
+	{
+ 		"iID": 4,
+ 		"iName": "Неузнаваемый",
+ 		"iLevel": 1,
+ 		"iMaxLevel": 1
+ 	},
+	{
+ 		"iID": 5,
+ 		"iName": "Больница в долгу",
+ 		"iLevel": 1,
+ 		"iMaxLevel": 1
+ 	},
+	{
+ 		"iID": 6,
+ 		"iName": "Белый список",
+ 		"iLevel": 1,
+ 		"iMaxLevel": 1
+ 	},
+	{
+ 		"iID": 7,
+ 		"iName": "Банковские махинации",
+ 		"iLevel": 1,
+ 		"iMaxLevel": 1
+ 	},
+	{
+ 		"iID": 8,
+ 		"iName": "Мародёры",
+ 		"iLevel": 1,
+ 		"iMaxLevel": 1
+ 	},
+	{
+ 		"iID": 9,
+ 		"iName": "Галочка",
+ 		"iLevel": 1,
+ 		"iMaxLevel": 1
+ 	},
+	{
+ 		"iID": 10,
+ 		"iName": "Рыбный цех",
+ 		"iLevel": 1,
+ 		"iMaxLevel": 1
+ 	},
+	{
+ 		"iID": 11,
+ 		"iName": "Бренд",
+ 		"iLevel": 1,
+ 		"iMaxLevel": 1
+ 	}
+]

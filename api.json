@@ -1,0 +1,13 @@
+{
+    "clientVersionCode": 243,
+    "gameFilesVersionCode": 6,
+    "URL_GAME_FILES" : "http://slaughters.geryon.feralhosting.com/samp-cache-lite.7z",
+    "URL_GAME_FILES_DXT" : "http://slaughters.geryon.feralhosting.com/dxt.7z",
+    "URL_GAME_FILES_PVR" : "http://slaughters.geryon.feralhosting.com/pvr.7z",
+    "URL_GAME_FILES_ETC" : "http://slaughters.geryon.feralhosting.com/etc.7z",
+    "URL_GAME_FILES_UPD" : "http://slaughters.geryon.feralhosting.com/files_upd.7z",
+    "URL_GAME_GRAPHICS" : "https://forum.crime-mobile.ru/",
+    "URL_FORUM": "https://forum.crime-mobile.ru/",
+    "URL_DONATE": "https://crime-mobile.ru/ru/shop",
+    "URL_CLIENT": "http://slaughters.geryon.feralhosting.com/app-crime-release.apk"
+}

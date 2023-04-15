@@ -1,0 +1,265 @@
+[
+ 	{
+ 		"iID": 0,
+ 		"iModel": 1,
+ 		"iPrice": 100,
+ 		"iType": 0,
+		"iRender": -1,
+		"iText": "Рулетка удачи {cd7f32}Bronze"
+ 	},
+	{
+ 		"iID": 1,
+ 		"iModel": 2,
+ 		"iPrice": 200,
+ 		"iType": 0,
+		"iRender": -1,
+		"iText": "Рулетка удачи {c8c8c8}Silver"
+ 	},
+	{
+ 		"iID": 2,
+ 		"iModel": 3,
+ 		"iPrice": 300,
+ 		"iType": 0,
+		"iText": "Рулетка удачи {c3900a}Gold"
+ 	},
+	{
+ 		"iID": 3,
+ 		"iModel": 6,
+ 		"iPrice": 300,
+ 		"iType": 0,
+		"iRender": -1,
+		"iText": "VIP {cd7f32}Bronze{FFFFFF} (3 дн.)"
+ 	},
+	{
+ 		"iID": 4,
+ 		"iModel": 6,
+ 		"iPrice": 350,
+ 		"iType": 0,
+		"iRender": -1,
+		"iText": "VIP {cd7f32}Bronze{FFFFFF} (5 дн.)"
+ 	},
+	{
+ 		"iID": 5,
+ 		"iModel": 6,
+ 		"iPrice": 400,
+ 		"iType": 0,
+		"iRender": -1,
+		"iText": "VIP {cd7f32}Bronze{FFFFFF} (7 дн.)"
+ 	},
+	{
+ 		"iID": 6,
+ 		"iModel": 6,
+ 		"iPrice": 450,
+ 		"iType": 0,
+		"iRender": -1,
+		"iText": "VIP {cd7f32}Bronze{FFFFFF} (10 дн.)"
+ 	},
+	{
+ 		"iID": 7,
+ 		"iModel": 6,
+ 		"iPrice": 500,
+ 		"iType": 0,
+		"iRender": -1,
+		"iText": "VIP {c8c8c8}Silver{FFFFFF} (3 дн.)"
+ 	},
+	{
+ 		"iID": 8,
+ 		"iModel": 6,
+ 		"iPrice": 550,
+ 		"iType": 0,
+		"iRender": -1,
+		"iText": "VIP {c8c8c8}Silver{FFFFFF} (5 дн.)"
+ 	},
+	{
+ 		"iID": 9,
+ 		"iModel": 6,
+ 		"iPrice": 600,
+ 		"iType": 0,
+		"iRender": -1,
+		"iText": "VIP {c8c8c8}Silver{FFFFFF} (7 дн.)"
+ 	},
+	{
+ 		"iID": 10,
+ 		"iModel": 6,
+ 		"iPrice": 650,
+ 		"iType": 0,
+		"iRender": -1,
+		"iText": "VIP {c8c8c8}Silver{FFFFFF} (10 дн.)"
+ 	},
+	{
+ 		"iID": 11,
+ 		"iModel": 19472,
+ 		"iPrice": 3000,
+ 		"iType": 1,
+		"iRender": 0,
+		"iText": " "
+ 	},
+	{
+ 		"iID": 12,
+ 		"iModel": 19319,
+ 		"iPrice": 3000,
+ 		"iType": 1,
+		"iRender": 0,
+		"iText": " "
+ 	},
+	{
+ 		"iID": 13,
+ 		"iModel": 19318,
+ 		"iPrice": 3000,
+ 		"iType": 1,
+		"iRender": 0,
+		"iText": " "
+ 	},
+	{
+ 		"iID": 14,
+ 		"iModel": 19317,
+ 		"iPrice": 3000,
+ 		"iType": 1,
+		"iRender": 0,
+		"iText": " "
+ 	},
+	{
+ 		"iID": 15,
+ 		"iModel": 34,
+ 		"iPrice": 3000,
+ 		"iType": 2,
+		"iRender": 2,
+		"iText": " "
+ 	},
+	{
+ 		"iID": 16,
+ 		"iModel": 182,
+ 		"iPrice": 4000,
+ 		"iType": 2,
+		"iRender": 2,
+		"iText": " "
+ 	},
+	{
+ 		"iID": 17,
+ 		"iModel": 305,
+ 		"iPrice": 2000,
+ 		"iType": 2,
+		"iRender": 2,
+		"iText": " "
+ 	},
+	{
+ 		"iID": 18,
+ 		"iModel": 304,
+ 		"iPrice": 2000,
+ 		"iType": 2,
+		"iRender": 2,
+		"iText": " "
+ 	},
+	{
+ 		"iID": 19,
+ 		"iModel": 4506,
+ 		"iPrice": 2000,
+ 		"iType": 2,
+		"iRender": 2,
+		"iText": " "
+ 	},
+	{
+ 		"iID": 20,
+ 		"iModel": 439,
+ 		"iPrice": 1000,
+ 		"iType": 3,
+		"iRender": 1,
+		"iText": " "
+ 	},
+	{
+ 		"iID": 21,
+ 		"iModel": 424,
+ 		"iPrice": 2000,
+ 		"iType": 3,
+		"iRender": 1,
+		"iText": " "
+ 	},
+	{
+ 		"iID": 22,
+ 		"iModel": 543,
+ 		"iPrice": 20000,
+ 		"iType": 3,
+		"iRender": 1,
+		"iText": " "
+ 	},
+	{
+ 		"iID": 23,
+ 		"iModel": 3272,
+ 		"iPrice": 10000,
+ 		"iType": 3,
+		"iRender": 1,
+		"iText": " "
+ 	},
+	{
+ 		"iID": 24,
+ 		"iModel": 3233,
+ 		"iPrice": 6000,
+ 		"iType": 3,
+		"iRender": 1,
+		"iText": " "
+ 	},
+	{
+ 		"iID": 25,
+ 		"iModel": 3275,
+ 		"iPrice": 40000,
+ 		"iType": 3,
+		"iRender": 1,
+		"iText": " "
+ 	},
+	{
+ 		"iID": 26,
+ 		"iModel": 12656,
+ 		"iPrice": 10000,
+ 		"iType": 1,
+		"iRender": 0,
+		"iText": " "
+ 	},
+	{
+ 		"iID": 27,
+ 		"iModel": 12669,
+ 		"iPrice": 10000,
+ 		"iType": 1,
+		"iRender": 0,
+		"iText": " "
+ 	},
+	{
+ 		"iID": 28,
+ 		"iModel": 11766,
+ 		"iPrice": 15000,
+ 		"iType": 1,
+		"iRender": 0,
+		"iText": " "
+ 	},
+	{
+ 		"iID": 29,
+ 		"iModel": 11763,
+ 		"iPrice": 15000,
+ 		"iType": 1,
+		"iRender": 0,
+		"iText": " "
+ 	},
+	{
+ 		"iID": 30,
+ 		"iModel": 11902,
+ 		"iPrice": 5000,
+ 		"iType": 1,
+		"iRender": 0,
+		"iText": " "
+ 	},
+	{
+ 		"iID": 31,
+ 		"iModel": 11904,
+ 		"iPrice": 5000,
+ 		"iType": 1,
+		"iRender": 0,
+		"iText": " "
+ 	},
+	{
+ 		"iID": 32,
+ 		"iModel": 5,
+ 		"iPrice": 2000,
+ 		"iType": 0,
+		"iRender": -1,
+		"iText": "Увеличение мест для т/с"
+ 	}
+]
