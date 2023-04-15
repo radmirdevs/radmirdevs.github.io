@@ -1,12 +1,12 @@
 
 	[
 	  {
-	  	"name": "Crime Mobile | Server 1",
+	  	"name": "Cherry Mobile | Server 1",
 	  	"online":500,
 	  	"ping":45
 	  },
 	  {
-	  	"name": "Crime Mobile | Server 2",
+	  	"name": "Cherry Mobile | Server 2",
 	  	"online":389,
 	  	"ping":51
 	  }
