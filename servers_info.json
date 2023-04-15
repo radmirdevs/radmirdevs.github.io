@@ -1,0 +1,26 @@
+[
+	{
+		"ip": "185.189.15.89",
+		"port": 7020, 
+		"action": "x4",
+		"name": "ENERGY STUDIO",
+		"new_server": true,
+		"test_server": false
+	},
+	{
+		"ip": "185.189.15.82",
+		"port": 7020, 
+		"action": "x4",
+		"name": "ENERGY STUDIO (02)",
+		"new_server": false,
+		"test_server": false
+	},
+	{
+		"ip": "51.91.91.65",
+		"port": 7777,
+		"action": "x4",
+		"name": "Тестовый",
+		"new_server": false,
+		"test_server": true
+	}
+]
