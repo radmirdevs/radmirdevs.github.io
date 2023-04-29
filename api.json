@@ -1,12 +1,4 @@
 {
-    "clientVersionCode": 100,
-    "gameFilesVersionCode": 100,
-    "URL_GAME_FILES" : "https://api.ru-state.online/test/game.zip",
-    "URL_GAME_FILES_UPD" : "https://api.ru-state.online/test/game.zip",
-    "URL_VK": "https://vk.com/cr_rustate",
-    "URL_DISCORD": "https://discord.gg/gtbqw8gbsC",
-    "URL_YOUTUBE": "https://t.me/bladegames_official",
-    "URL_FORUM": "https://f.ru-state.online/",
-    "URL_DONATE": "https://ru-state.online/donate",
-    "URL_CLIENT": "https://api.ru-state.online/test/game.zip"
+    "GAME_FILES" : "https://horizont.zip",
+    "VK": "https://vk.com/hormobile"
 }
